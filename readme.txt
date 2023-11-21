@@ -1,1 +1,1 @@
-This is a ReactJS project.
+This is a ReactJS project repository.
